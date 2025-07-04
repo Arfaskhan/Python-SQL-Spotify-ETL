@@ -14,7 +14,8 @@ This project extracts track info from the Spotify API, transforms it, and loads 
  # Folder Structure
 - `notebooks/` – Jupyter notebook with code walkthrough
 - `scripts/` – Reusable Python ETL script
-
+- `data/` – sample file
+- 
 # 13 Use Cases
 1. Top 3 Most Popular Songs.
 2. Songs Grouped by Artist.
@@ -29,3 +30,5 @@ This project extracts track info from the Spotify API, transforms it, and loads 
 11. Show popularity status for each song.
 12. Group by status and name of the songs.
 13. Track how much of your data is "very popular".
+
+Added screenshots of Scripts and sql code with outpt of this 13 cases
